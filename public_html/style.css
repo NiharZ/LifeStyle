@@ -1,0 +1,47 @@
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(img/umbrella.jpg) no-repeat center center;
+    background-size: cover;
+    min-height: 760px;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 18%;
+    margin-bottom: 12%;
+    margin-left: 20%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+    border-radius: 6px;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
+#login_content{
+    padding-top: 0px;
+    margin-top:80px;
+}
+#signup_content{
+    margin-top: 80px;
+}
+#products_footer{
+    position: relative;
+}
+#products_content{
+    margin-top: 80px;
+}
+#cart_content{
+    margin-top: 80px;
+}
+#settings_content{
+    margin-top: 80px;
+}
